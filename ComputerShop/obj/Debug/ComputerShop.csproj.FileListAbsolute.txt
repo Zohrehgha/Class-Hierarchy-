@@ -1,0 +1,12 @@
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe.config
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\bin\Debug\ComputerLibrary.dll
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\bin\Debug\ComputerLibrary.pdb
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Form1.resources
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+C:\ITD\Term 3\C#\assignment\assignment5\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
